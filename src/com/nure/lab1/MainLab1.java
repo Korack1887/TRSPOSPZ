@@ -1,12 +1,9 @@
-package com.nure;
-
-import com.nure.lab1.MedianFilter;
-import com.nure.lab1.TextToImageUtil;
+package com.nure.lab1;
 
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 
-public class Main {
+public class MainLab1 {
 
     public static void main(String[] args) {
         long startProgram = System.currentTimeMillis();
